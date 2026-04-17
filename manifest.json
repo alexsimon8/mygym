@@ -1,0 +1,10 @@
+{
+  "name": "MyGym - Entrenador Personal",
+  "short_name": "MyGym",
+  "description": "Tu entrenador personal y nutricionista con IA",
+  "start_url": "/mygym/",
+  "display": "standalone",
+  "background_color": "#0f0f0f",
+  "theme_color": "#FF6B35",
+  "orientation": "portrait"
+}
